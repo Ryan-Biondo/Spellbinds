@@ -1,0 +1,4 @@
+## Interface: 100007
+## Title: Spellbinds
+## Notes: Displays keybinds and their corresponding abilities on action bars
+spellbinds.lua
